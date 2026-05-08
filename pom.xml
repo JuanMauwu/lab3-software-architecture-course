@@ -28,7 +28,6 @@
 	</scm>
 	<properties>
 		<java.version>17</java.version>
-		<!-- ✅ Versión corregida: 2.2.20 no existe en Maven Central -->
 		<kotlin.version>2.0.21</kotlin.version>
 	</properties>
 	<dependencies>
